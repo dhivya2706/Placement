@@ -2,7 +2,6 @@ class chnage{
     public static void main(String args[]){
         String s="Hi Hell";
         String[] a=s.split(" ");
-        String[] a1=new String[a.length];
         int x=0;
         int y=0;
         String s2="";
